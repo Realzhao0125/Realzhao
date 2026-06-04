@@ -1,0 +1,12 @@
+{
+  "name": "个人成长长期奖励计划",
+  "short_name": "成长计划",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f5ef",
+  "theme_color": "#506a56",
+  "description": "认真生活的每一天，都值得被看见。",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
